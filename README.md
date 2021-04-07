@@ -1,3 +1,4 @@
+Hey, guess what, I'm making a change!
 # simple-java-maven-app
 
 This repository is for the
